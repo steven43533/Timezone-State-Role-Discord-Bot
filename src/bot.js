@@ -1,1 +1,1 @@
-const config = require('./config.json')
+require('config.json').config();
